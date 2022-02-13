@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @stackoversnow
+- 👀 Me think, why waste lines, write lot code, when few code do trick. 
