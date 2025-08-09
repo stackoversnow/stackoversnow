@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @stackoversnow
-- 👀 Me think, why waste lines, write lot code, when few lines do trick. 
+- I like coding.
